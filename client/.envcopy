@@ -1,0 +1,8 @@
+//mongo pass = 
+username = 
+ip 195.123.233.81/32
+
+mongodb+srv://username:<password>@cluster0.5xngphg.mongodb.net/?retryWrites=true&w=majority
+
+
+import { Schema, model } from "mongoose";
